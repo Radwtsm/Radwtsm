@@ -1,4 +1,4 @@
-### Software engineer · Milan, Italy · open to relocation (London)
+### Software engineer · Milan, Italy
 
 C++/Qt desktop software for aerospace mission planning by day; before that, Python/Django and TypeScript backends.
 I care about developer tooling, tests that run on every commit, and making AI coding agents follow a team's rules
