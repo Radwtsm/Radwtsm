@@ -8,7 +8,6 @@ instead of guessing.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [pleyades-cli](https://github.com/Radwtsm/pleyades-cli) | One command that brings every machine of a team to the same Claude Code setup (plugins, settings, repos), plus a context-cost check | Python, CI on Linux/macOS/Windows |
 | [pleiadi-cli-builder](https://github.com/Radwtsm/pleiadi-cli-builder) | Framework for guided setup tools: arrow-key menus, idempotent steps, dry-run, declared side effects, contract tests | Python, standard library only |
 | [shop-display-platform](https://github.com/Radwtsm/shop-display-platform) | Prototype for small shops: TV display player, phone control panel, owner dashboard | TypeScript/Node without frameworks, Vitest, Playwright |
 | [piano-practice](https://github.com/Radwtsm/piano-practice) | Piano practice app with statistics | Swift/SwiftUI, unit tests |
